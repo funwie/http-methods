@@ -1,8 +1,10 @@
 ## HTTP Methods Summary Table
 
-Why follow this standard? Simplest answer is "Interoperability"
-Interoperability is "the ability of computer systems or software to exchange and make use of information" 
-Example: Different browsers retrieve and display the same web page 
+Why follow this standard? Simplest answer is "Interoperability".
+
+Interoperability is "the ability of computer systems or software to exchange and make use of information".
+
+Example: Different browsers retrieve and display the same web page.
 
 
 | HTTP Method      |   Use |   Idempotent   |  Safe | Cacheable | Request body |
