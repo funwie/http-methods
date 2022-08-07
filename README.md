@@ -7,6 +7,8 @@ Interoperability is "the ability of computer systems or software to exchange and
 Example: Different browsers retrieve and display the same web page.
 
 
+
+
 | HTTP Method      |   Use |   Idempotent   |  Safe | Cacheable | Request body |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
 | GET      | Retrieve a resource       |  Yes  | Yes | Yes | No |
